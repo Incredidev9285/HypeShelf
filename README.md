@@ -48,7 +48,7 @@ HypeShelf is a social recommendations platform where friends can share their fav
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Incredidev9285/HypeShelf.git
 cd hypeshelf
 npm install
 ```
